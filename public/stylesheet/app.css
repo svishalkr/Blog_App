@@ -1,0 +1,19 @@
+body{
+background: #ee0979;  
+background: -webkit-linear-gradient(to right, #ff6a00, #ee0979);  
+background: linear-gradient(to right, #ff6a00, #ee0979); 
+
+}
+
+i.icon {
+	font-size:2em;
+}
+.container.main {
+	margin-top:7.0em;
+}
+#delete{
+	display:inline;
+}
+.marg{
+	margin-top=6.0em;
+}
